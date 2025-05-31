@@ -1,4 +1,3 @@
-
 # =========================================
 # 🎯 Control Flow in Python - Let's Practice!
 # =========================================
@@ -158,3 +157,42 @@ elif color == "yellow":
 else:
     print("Color not recognized")
 
+# 🎟️ Ticket Pricing System
+age = 15
+if age < 13:
+    print("Child Ticket")
+elif age <= 18:
+    print("Teen Ticket")
+else:
+    print("Adult Ticket")
+
+# 💤 Daily Motivation
+hours = 7
+if hours < 6:
+    print("Try to get more rest!")
+elif hours <= 8:
+    print("You're doing fine!")
+else:
+    print("Well rested!")
+
+# 🌦️ Weather Advisor
+weather = "cold"
+if weather == "sunny":
+    print("Wear sunglasses!")
+elif weather == "rainy":
+    print("Take an umbrella.")
+elif weather == "cold":
+    print("Wear a jacket!")
+else:
+    print("Check the forecast.")
+
+# 🎨 Creative Bonus - Color Reaction
+color = "green"
+if color == "red":
+    print("Stop!")
+elif color == "green":
+    print("Go!")
+elif color == "yellow":
+    print("Slow down.")
+else:
+    print("Color not recognized")
