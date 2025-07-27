@@ -1,1 +1,16 @@
-
+CustomerID,Age,Gender,City,ProductCategory,PurchaseAmount,PaymentMethod,PurchaseDate
+C001,28,Male,London,Electronics,240,Credit Card,2024-06-01
+C002,35,Female,Manchester,Clothing,150,Cash,2024-06-03
+C003,22,Female,Birmingham,Beauty,85,Debit Card,2024-06-04
+C004,40,Male,London,Grocery,60,Credit Card,2024-06-05
+C005,31,Female,Manchester,Electronics,300,UPI,2024-06-06
+C006,27,Male,Liverpool,Grocery,50,Cash,2024-06-06
+C007,24,Female,London,Clothing,180,Debit Card,2024-06-07
+C008,45,Male,Leeds,Electronics,500,Credit Card,2024-06-08
+C009,33,Female,London,Beauty,95,UPI,2024-06-08
+C010,29,Male,Manchester,Grocery,75,Credit Card,2024-06-09
+C011,37,Female,Leeds,Clothing,210,Debit Card,2024-06-10
+C012,26,Male,Liverpool,Electronics,320,UPI,2024-06-11
+C013,23,Female,Birmingham,Beauty,65,Cash,2024-06-12
+C014,39,Male,Manchester,Grocery,55,Credit Card,2024-06-13
+C015,30,Female,London,Electronics,410,Debit Card,2024-06-13
