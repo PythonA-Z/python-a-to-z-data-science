@@ -1,1 +1,162 @@
+CustomerID,Age,Gender,City,ProductCategory,PurchaseAmount,PaymentMethod,PurchaseDate
+C106,41,Male,Liverpool,Beauty,422,Cash,2024-08-26
+C109,56,Female,London,Grocery,397,Credit Card,2024-08-29
+C142,24,Female,Manchester,Clothing,499,Credit Card,2024-10-01
+C056,23,Male,Leeds,Electronics,919,Cash,2024-07-26
+C095,31,Female,Liverpool,Toys,423,UPI,2024-08-15
+C030,34,Male,London,Electronics,432,Cash,2024-06-30
+C102,42,Female,London,Toys,321,Credit Card,2024-08-22
+C052,59,Male,Birmingham,Electronics,352,UPI,2024-07-22
+C101,51,Female,Manchester,Toys,273,Cash,2024-08-21
+C143,41,Female,Manchester,Grocery,59,Debit Card,2024-10-02
+C020,57,Male,London,Electronics,823,Credit Card,2024-06-20
+C085,44,Male,Liverpool,Clothing,451,Cash,2024-08-05
+C016,41,Male,Birmingham,Electronics,462,Cash,2024-06-16
+C067,33,Male,Manchester,Electronics,839,Cash,2024-08-06
+C025,41,Female,London,Electronics,851,Debit Card,2024-06-25
+C031,22,Female,Leeds,Electronics,298,UPI,2024-07-01
+C129,45,Male,Liverpool,Clothing,289,UPI,2024-09-18
+C148,35,Male,Leeds,Clothing,414,Cash,2024-10-07
+C099,53,Female,Leeds,Clothing,61,Credit Card,2024-08-19
+C017,21,Female,London,Electronics,963,UPI,2024-06-17
+C076,48,Male,Birmingham,Electronics,237,Credit Card,2024-08-15
+C019,49,Female,London,Electronics,545,UPI,2024-06-19
+C013,59,Male,Birmingham,Electronics,614,UPI,2024-06-13
+C010,30,Male,Birmingham,Electronics,978,UPI,2024-06-10
+C032,56,Female,Manchester,Electronics,858,Credit Card,2024-07-02
+C152,33,Male,London,Beauty,423,Cash,2024-10-11
+C098,47,Female,London,Beauty,490,UPI,2024-08-18
+C057,48,Female,Manchester,Electronics,880,Debit Card,2024-07-27
+C132,31,Male,Birmingham,Beauty,95,Cash,2024-09-21
+C105,41,Male,London,Beauty,205,Credit Card,2024-08-25
+C137,44,Female,Birmingham,Beauty,420,Debit Card,2024-09-26
+C079,44,Male,Leeds,Electronics,762,Debit Card,2024-08-18
+C061,29,Male,Birmingham,Electronics,476,Debit Card,2024-07-31
+C116,51,Female,Leeds,Grocery,77,Credit Card,2024-09-05
+C003,34,Male,Birmingham,Electronics,347,Cash,2024-06-03
+C124,36,Male,London,Toys,194,Credit Card,2024-09-13
+C046,26,Male,London,Electronics,453,Credit Card,2024-07-16
+C043,21,Male,Leeds,Electronics,619,UPI,2024-07-13
+C070,40,Female,London,Electronics,659,Cash,2024-08-09
+C091,20,Female,Liverpool,Toys,464,Cash,2024-08-11
+C027,46,Male,Leeds,Electronics,236,Debit Card,2024-06-27
+C139,20,Male,London,Clothing,246,Cash,2024-09-28
+C083,45,Male,Liverpool,Grocery,69,Debit Card,2024-08-03
+C097,34,Male,Leeds,Beauty,193,Debit Card,2024-08-17
+C147,45,Male,Liverpool,Toys,300,Debit Card,2024-10-06
+C037,37,Female,London,Electronics,253,Debit Card,2024-07-07
+C082,48,Male,Manchester,Beauty,196,Credit Card,2024-08-02
+C023,52,Male,Birmingham,Electronics,503,UPI,2024-06-23
+C144,48,Male,Manchester,Clothing,361,UPI,2024-10-03
+C068,42,Female,Leeds,Electronics,232,Debit Card,2024-08-07
+C115,25,Female,Leeds,Beauty,227,Debit Card,2024-09-04
+C012,55,Male,Birmingham,Electronics,350,Credit Card,2024-06-12
+C066,27,Female,Birmingham,Electronics,600,Debit Card,2024-08-05
+C086,43,Female,Leeds,Clothing,96,Credit Card,2024-08-06
+C007,38,Male,London,Electronics,750,Credit Card,2024-06-07
+C028,47,Female,London,Electronics,359,Credit Card,2024-06-28
+C077,34,Male,Leeds,Electronics,429,Credit Card,2024-08-16
+C140,35,Female,Liverpool,Clothing,352,Debit Card,2024-09-29
+C127,45,Male,Leeds,Clothing,261,UPI,2024-09-16
+C042,45,Male,Manchester,Electronics,824,Credit Card,2024-07-12
+C005,40,Female,Manchester,Electronics,688,Credit Card,2024-06-05
+C136,51,Male,Liverpool,Clothing,131,Debit Card,2024-09-25
+C033,26,Male,Birmingham,Electronics,407,Credit Card,2024-07-03
+C128,56,Male,Manchester,Beauty,269,Debit Card,2024-09-17
+C133,20,Male,London,Clothing,84,Debit Card,2024-09-22
+C069,59,Female,London,Electronics,887,Cash,2024-08-08
+C011,43,Female,Birmingham,Electronics,672,Credit Card,2024-06-11
+C096,42,Female,London,Clothing,308,Cash,2024-08-16
+C110,52,Female,London,Beauty,213,Debit Card,2024-08-30
+C001,58,Male,Leeds,Electronics,710,UPI,2024-06-01
+C120,35,Female,Liverpool,Grocery,277,Credit Card,2024-09-09
+C112,24,Female,Birmingham,Grocery,185,Cash,2024-09-01
+C065,34,Male,Liverpool,Electronics,394,Cash,2024-08-04
+C045,47,Male,Liverpool,Electronics,303,Credit Card,2024-07-15
+C087,32,Female,Liverpool,Clothing,282,Credit Card,2024-08-07
+C029,35,Male,Liverpool,Electronics,208,Debit Card,2024-06-29
+C041,28,Male,Birmingham,Electronics,786,UPI,2024-07-11
+C113,58,Male,London,Grocery,235,Credit Card,2024-09-02
+C026,44,Female,Leeds,Electronics,652,Credit Card,2024-06-26
+C024,31,Female,Liverpool,Electronics,453,UPI,2024-06-24
+C118,54,Female,Birmingham,Clothing,406,Credit Card,2024-09-07
+C080,26,Female,Manchester,Electronics,637,UPI,2024-08-19
+C040,33,Male,Birmingham,Electronics,827,Cash,2024-07-10
+C094,33,Female,Manchester,Grocery,103,Credit Card,2024-08-14
+C157,31,Female,Liverpool,Beauty,226,Credit Card,2024-10-16
+C156,24,Female,London,Clothing,288,Credit Card,2024-10-15
+C135,53,Female,Leeds,Grocery,439,Debit Card,2024-09-24
+C048,54,Female,Leeds,Electronics,311,Cash,2024-07-18
+C153,47,Female,Manchester,Clothing,114,Cash,2024-10-12
+C062,55,Male,Leeds,Electronics,703,UPI,2024-08-01
+C074,45,Male,Leeds,Electronics,949,Credit Card,2024-08-13
+C034,40,Male,Leeds,Electronics,330,UPI,2024-07-04
+C121,32,Female,London,Toys,241,Credit Card,2024-09-10
+C119,59,Female,Birmingham,Clothing,90,Cash,2024-09-08
+C126,47,Male,Birmingham,Toys,466,UPI,2024-09-15
+C063,33,Female,Leeds,Electronics,591,Debit Card,2024-08-02
+C159,45,Male,Manchester,Clothing,390,Debit Card,2024-10-18
+C149,56,Male,Leeds,Toys,54,Credit Card,2024-10-08
+C154,24,Female,Manchester,Toys,195,Cash,2024-10-13
+C054,21,Male,London,Electronics,905,Credit Card,2024-07-24
+C006,58,Female,Liverpool,Electronics,839,Debit Card,2024-06-06
+C150,41,Female,Manchester,Clothing,168,Credit Card,2024-10-09
+C125,38,Male,Birmingham,Toys,250,Credit Card,2024-09-14
+C050,36,Male,Manchester,Electronics,672,UPI,2024-07-20
+C036,58,Female,Birmingham,Electronics,351,Credit Card,2024-07-06
+C081,58,Female,Birmingham,Grocery,276,Cash,2024-08-01
+C078,20,Female,Birmingham,Electronics,564,Cash,2024-08-17
+C035,28,Female,London,Electronics,603,Credit Card,2024-07-05
+C047,27,Male,London,Electronics,426,UPI,2024-07-17
+C008,42,Male,Liverpool,Electronics,537,UPI,2024-06-08
+C044,39,Female,London,Electronics,621,Cash,2024-07-14
+C071,35,Male,Birmingham,Electronics,669,Debit Card,2024-08-10
+C123,38,Female,Birmingham,Grocery,496,Debit Card,2024-09-12
+C111,27,Male,London,Beauty,139,Debit Card,2024-08-31
+C092,27,Female,London,Clothing,50,Cash,2024-08-12
+C084,54,Female,Manchester,Grocery,490,Cash,2024-08-04
+C145,22,Male,Liverpool,Grocery,335,Credit Card,2024-10-04
+C146,31,Female,Leeds,Grocery,291,Debit Card,2024-10-05
+C090,39,Female,Liverpool,Toys,192,Credit Card,2024-08-10
+C009,30,Male,Birmingham,Electronics,840,Cash,2024-06-09
+C114,23,Female,Liverpool,Beauty,365,Credit Card,2024-09-03
+C014,43,Male,Leeds,Electronics,497,Credit Card,2024-06-14
+C060,53,Male,Manchester,Electronics,597,UPI,2024-07-30
+C138,59,Male,Liverpool,Toys,305,Cash,2024-09-27
+C004,27,Female,Manchester,Electronics,910,Debit Card,2024-06-04
+C018,43,Male,London,Electronics,343,Cash,2024-06-18
+C039,44,Male,Manchester,Electronics,872,Cash,2024-07-09
+C073,43,Male,Liverpool,Electronics,221,Debit Card,2024-08-12
+C141,58,Male,Liverpool,Toys,458,UPI,2024-09-30
+C134,20,Female,Birmingham,Toys,302,Debit Card,2024-09-23
+C064,50,Male,London,Electronics,334,UPI,2024-08-03
+C055,25,Male,London,Electronics,362,Debit Card,2024-07-25
+C108,34,Female,Leeds,Toys,171,Credit Card,2024-08-28
+C051,55,Female,Manchester,Electronics,298,Cash,2024-07-21
+C158,35,Male,Liverpool,Toys,316,Debit Card,2024-10-17
+C059,45,Female,Birmingham,Electronics,779,Cash,2024-07-29
+C049,33,Male,London,Electronics,709,Credit Card,2024-07-19
+C089,55,Male,London,Beauty,63,Debit Card,2024-08-09
+C022,40,Male,London,Electronics,201,Credit Card,2024-06-22
+C058,37,Female,Liverpool,Electronics,360,Debit Card,2024-07-28
+C155,49,Female,Birmingham,Grocery,273,Cash,2024-10-14
+C130,42,Female,Liverpool,Beauty,462,Cash,2024-09-19
+C038,23,Male,London,Electronics,319,Credit Card,2024-07-08
+C151,48,Female,Birmingham,Clothing,338,UPI,2024-10-10
+C002,48,Female,Leeds,Electronics,346,Cash,2024-06-02
+C053,23,Male,Liverpool,Electronics,537,Debit Card,2024-07-23
+C131,28,Male,Leeds,Clothing,446,UPI,2024-09-20
+C104,44,Female,Birmingham,Toys,457,Cash,2024-08-24
+C100,21,Male,Birmingham,Clothing,379,Credit Card,2024-08-20
+C117,49,Male,London,Beauty,269,Debit Card,2024-09-06
+C088,26,Male,Birmingham,Grocery,354,Credit Card,2024-08-08
+C075,44,Male,Birmingham,Electronics,869,UPI,2024-08-14
+C122,49,Male,Leeds,Grocery,460,UPI,2024-09-11
+C160,45,Male,London,Toys,331,Cash,2024-10-19
+C021,21,Female,Leeds,Electronics,771,UPI,2024-06-21
+C072,37,Male,Leeds,Electronics,574,Debit Card,2024-08-11
+C107,25,Female,London,Clothing,57,Credit Card,2024-08-27
+C015,22,Male,Manchester,Electronics,810,UPI,2024-06-15
+C093,35,Male,Birmingham,Clothing,422,Credit Card,2024-08-13
+C103,41,Male,Liverpool,Grocery,407,Debit Card,2024-08-23
 
